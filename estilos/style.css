@@ -140,3 +140,13 @@ footer ul{
     padding-left: 0;
 }
 
+footer .footer-left{
+     justify-self: left;
+}
+footer .footer-right{
+    justify-self: right;
+}
+footer ul li a{
+    margin: 10px;
+    color: #5f6368;
+}
